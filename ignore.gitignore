@@ -1,0 +1,6 @@
+# Seguridad: Ignorar credenciales de base de datos
+config/db.php
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
